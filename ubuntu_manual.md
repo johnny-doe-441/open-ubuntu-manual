@@ -1,6 +1,13 @@
-#General information
+# General information
 
-#Tips and tricks
+# Tips and tricks
 
-#Problem and solutions
+# Problem and solutions
 
+## Hardware
+
+## Software
+
+## Hardware and software
+
+### Scroll speed
